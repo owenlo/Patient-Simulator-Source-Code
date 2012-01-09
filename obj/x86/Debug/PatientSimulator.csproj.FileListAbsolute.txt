@@ -1,0 +1,95 @@
+C:\Documents and Settings\cs365\Desktop\eHealthApplications\PatientSimulator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\cs365\Desktop\eHealthApplications\PatientSimulator\obj\x86\Debug\PatientSimulator.LoginMenu.resources
+C:\Documents and Settings\cs365\Desktop\eHealthApplications\PatientSimulator\obj\x86\Debug\PatientSimulator.MainMenu.resources
+C:\Documents and Settings\cs365\Desktop\eHealthApplications\PatientSimulator\obj\x86\Debug\PatientSimulator.PatientMenu.resources
+C:\Documents and Settings\cs365\Desktop\eHealthApplications\PatientSimulator\obj\x86\Debug\PatientSimulator.Properties.Resources.resources
+C:\Documents and Settings\cs365\Desktop\eHealthApplications\PatientSimulator\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\cs365\Desktop\eHealthApplications\PatientSimulator\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\cs365\Desktop\eHealthApplications\PatientSimulator\obj\x86\Debug\PatientSimulator.exe
+C:\Documents and Settings\cs365\Desktop\eHealthApplications\PatientSimulator\obj\x86\Debug\PatientSimulator.pdb
+C:\Documents and Settings\cs365\Desktop\eHealthApplications\PatientSimulator\bin\Debug\PatientSimulator.exe
+C:\Documents and Settings\cs365\Desktop\eHealthApplications\PatientSimulator\bin\Debug\PatientSimulator.pdb
+C:\Documents and Settings\cs365\Desktop\eHealthApplications\PatientSimulator\bin\Debug\eHealthLibrary.dll
+C:\Documents and Settings\cs365\Desktop\eHealthApplications\PatientSimulator\bin\Debug\WPFAuth.dll
+C:\Documents and Settings\cs365\Desktop\eHealthApplications\PatientSimulator\bin\Debug\ZedGraph.dll
+C:\Documents and Settings\cs365\Desktop\eHealthApplications\PatientSimulator\bin\Debug\Valkyrie.dll
+C:\Documents and Settings\cs365\Desktop\eHealthApplications\PatientSimulator\bin\Debug\Troschuetz.Random.dll
+C:\Documents and Settings\cs365\Desktop\eHealthApplications\PatientSimulator\bin\Debug\PatientSimulator.exe.config
+H:\My Dropbox\Programming\eHealthProject\PatientSimulator\bin\Debug\PatientSimulator.exe.config
+H:\My Dropbox\Programming\eHealthProject\PatientSimulator\bin\Debug\PatientSimulator.exe
+H:\My Dropbox\Programming\eHealthProject\PatientSimulator\bin\Debug\PatientSimulator.pdb
+H:\My Dropbox\Programming\eHealthProject\PatientSimulator\bin\Debug\eHealthLibrary.dll
+H:\My Dropbox\Programming\eHealthProject\PatientSimulator\bin\Debug\WPFAuth.dll
+H:\My Dropbox\Programming\eHealthProject\PatientSimulator\bin\Debug\ZedGraph.dll
+H:\My Dropbox\Programming\eHealthProject\PatientSimulator\bin\Debug\Valkyrie.dll
+H:\My Dropbox\Programming\eHealthProject\PatientSimulator\bin\Debug\Troschuetz.Random.dll
+H:\My Dropbox\Programming\eHealthProject\PatientSimulator\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\My Dropbox\Programming\eHealthProject\PatientSimulator\obj\x86\Debug\PatientSimulator.LoginMenu.resources
+H:\My Dropbox\Programming\eHealthProject\PatientSimulator\obj\x86\Debug\PatientSimulator.MainMenu.resources
+H:\My Dropbox\Programming\eHealthProject\PatientSimulator\obj\x86\Debug\PatientSimulator.PatientMenu.resources
+H:\My Dropbox\Programming\eHealthProject\PatientSimulator\obj\x86\Debug\PatientSimulator.Properties.Resources.resources
+H:\My Dropbox\Programming\eHealthProject\PatientSimulator\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\My Dropbox\Programming\eHealthProject\PatientSimulator\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\My Dropbox\Programming\eHealthProject\PatientSimulator\obj\x86\Debug\PatientSimulator.exe
+H:\My Dropbox\Programming\eHealthProject\PatientSimulator\obj\x86\Debug\PatientSimulator.pdb
+H:\My Dropbox\Programming\eHealthProject\src\PatientSimulator\bin\Debug\PatientSimulator.exe.config
+H:\My Dropbox\Programming\eHealthProject\src\PatientSimulator\bin\Debug\PatientSimulator.exe
+H:\My Dropbox\Programming\eHealthProject\src\PatientSimulator\bin\Debug\PatientSimulator.pdb
+H:\My Dropbox\Programming\eHealthProject\src\PatientSimulator\bin\Debug\eHealthLibrary.dll
+H:\My Dropbox\Programming\eHealthProject\src\PatientSimulator\bin\Debug\WPFAuth.dll
+H:\My Dropbox\Programming\eHealthProject\src\PatientSimulator\bin\Debug\ZedGraph.dll
+H:\My Dropbox\Programming\eHealthProject\src\PatientSimulator\bin\Debug\Valkyrie.dll
+H:\My Dropbox\Programming\eHealthProject\src\PatientSimulator\bin\Debug\Troschuetz.Random.dll
+H:\My Dropbox\Programming\eHealthProject\src\PatientSimulator\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\My Dropbox\Programming\eHealthProject\src\PatientSimulator\obj\x86\Debug\PatientSimulator.LoginMenu.resources
+H:\My Dropbox\Programming\eHealthProject\src\PatientSimulator\obj\x86\Debug\PatientSimulator.MainMenu.resources
+H:\My Dropbox\Programming\eHealthProject\src\PatientSimulator\obj\x86\Debug\PatientSimulator.PatientMenu.resources
+H:\My Dropbox\Programming\eHealthProject\src\PatientSimulator\obj\x86\Debug\PatientSimulator.Properties.Resources.resources
+H:\My Dropbox\Programming\eHealthProject\src\PatientSimulator\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\My Dropbox\Programming\eHealthProject\src\PatientSimulator\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\My Dropbox\Programming\eHealthProject\src\PatientSimulator\obj\x86\Debug\PatientSimulator.exe
+H:\My Dropbox\Programming\eHealthProject\src\PatientSimulator\obj\x86\Debug\PatientSimulator.pdb
+C:\Users\Owen\Documents\My Dropbox\Programming\eHealthProject\src\PatientSimulator\bin\Debug\PatientSimulator.exe.config
+C:\Users\Owen\Documents\My Dropbox\Programming\eHealthProject\src\PatientSimulator\bin\Debug\PatientSimulator.exe
+C:\Users\Owen\Documents\My Dropbox\Programming\eHealthProject\src\PatientSimulator\bin\Debug\PatientSimulator.pdb
+C:\Users\Owen\Documents\My Dropbox\Programming\eHealthProject\src\PatientSimulator\bin\Debug\eHealthLibrary.dll
+C:\Users\Owen\Documents\My Dropbox\Programming\eHealthProject\src\PatientSimulator\bin\Debug\WPFAuth.dll
+C:\Users\Owen\Documents\My Dropbox\Programming\eHealthProject\src\PatientSimulator\bin\Debug\ZedGraph.dll
+C:\Users\Owen\Documents\My Dropbox\Programming\eHealthProject\src\PatientSimulator\bin\Debug\Valkyrie.dll
+C:\Users\Owen\Documents\My Dropbox\Programming\eHealthProject\src\PatientSimulator\bin\Debug\Troschuetz.Random.dll
+C:\Users\Owen\Documents\My Dropbox\Programming\eHealthProject\src\PatientSimulator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Owen\Documents\My Dropbox\Programming\eHealthProject\src\PatientSimulator\obj\x86\Debug\PatientSimulator.LoginMenu.resources
+C:\Users\Owen\Documents\My Dropbox\Programming\eHealthProject\src\PatientSimulator\obj\x86\Debug\PatientSimulator.MainMenu.resources
+C:\Users\Owen\Documents\My Dropbox\Programming\eHealthProject\src\PatientSimulator\obj\x86\Debug\PatientSimulator.PatientMenu.resources
+C:\Users\Owen\Documents\My Dropbox\Programming\eHealthProject\src\PatientSimulator\obj\x86\Debug\PatientSimulator.Properties.Resources.resources
+C:\Users\Owen\Documents\My Dropbox\Programming\eHealthProject\src\PatientSimulator\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Owen\Documents\My Dropbox\Programming\eHealthProject\src\PatientSimulator\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Owen\Documents\My Dropbox\Programming\eHealthProject\src\PatientSimulator\obj\x86\Debug\PatientSimulator.exe
+C:\Users\Owen\Documents\My Dropbox\Programming\eHealthProject\src\PatientSimulator\obj\x86\Debug\PatientSimulator.pdb
+C:\Users\newo\Dropbox\Programming\eHealthProject\src\PatientSimulator\bin\Debug\PatientSimulator.exe.config
+C:\Users\newo\Dropbox\Programming\eHealthProject\src\PatientSimulator\bin\Debug\PatientSimulator.exe
+C:\Users\newo\Dropbox\Programming\eHealthProject\src\PatientSimulator\bin\Debug\PatientSimulator.pdb
+C:\Users\newo\Dropbox\Programming\eHealthProject\src\PatientSimulator\bin\Debug\eHealthLibrary.dll
+C:\Users\newo\Dropbox\Programming\eHealthProject\src\PatientSimulator\bin\Debug\WPFAuth.dll
+C:\Users\newo\Dropbox\Programming\eHealthProject\src\PatientSimulator\bin\Debug\ZedGraph.dll
+C:\Users\newo\Dropbox\Programming\eHealthProject\src\PatientSimulator\bin\Debug\Valkyrie.dll
+C:\Users\newo\Dropbox\Programming\eHealthProject\src\PatientSimulator\bin\Debug\Troschuetz.Random.dll
+C:\Users\newo\Dropbox\Programming\eHealthProject\src\PatientSimulator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\newo\Dropbox\Programming\eHealthProject\src\PatientSimulator\obj\x86\Debug\PatientSimulator.LoginMenu.resources
+C:\Users\newo\Dropbox\Programming\eHealthProject\src\PatientSimulator\obj\x86\Debug\PatientSimulator.MainMenu.resources
+C:\Users\newo\Dropbox\Programming\eHealthProject\src\PatientSimulator\obj\x86\Debug\PatientSimulator.PatientMenu.resources
+C:\Users\newo\Dropbox\Programming\eHealthProject\src\PatientSimulator\obj\x86\Debug\PatientSimulator.Properties.Resources.resources
+C:\Users\newo\Dropbox\Programming\eHealthProject\src\PatientSimulator\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\newo\Dropbox\Programming\eHealthProject\src\PatientSimulator\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\newo\Dropbox\Programming\eHealthProject\src\PatientSimulator\obj\x86\Debug\PatientSimulator.exe
+C:\Users\newo\Dropbox\Programming\eHealthProject\src\PatientSimulator\obj\x86\Debug\PatientSimulator.pdb
+H:\My Dropbox\Programming\Rockstar\PatientSimulator\bin\Debug\PatientSimulator.exe
+H:\My Dropbox\Programming\Rockstar\PatientSimulator\bin\Debug\PatientSimulator.pdb
+H:\My Dropbox\Programming\Rockstar\PatientSimulator\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\My Dropbox\Programming\Rockstar\PatientSimulator\obj\x86\Debug\PatientSimulator.MainMenu.resources
+H:\My Dropbox\Programming\Rockstar\PatientSimulator\obj\x86\Debug\PatientSimulator.PatientMenu.resources
+H:\My Dropbox\Programming\Rockstar\PatientSimulator\obj\x86\Debug\PatientSimulator.Properties.Resources.resources
+H:\My Dropbox\Programming\Rockstar\PatientSimulator\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\My Dropbox\Programming\Rockstar\PatientSimulator\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\My Dropbox\Programming\Rockstar\PatientSimulator\obj\x86\Debug\PatientSimulator.exe
+H:\My Dropbox\Programming\Rockstar\PatientSimulator\obj\x86\Debug\PatientSimulator.pdb
